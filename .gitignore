@@ -1,6 +1,7 @@
 # Script files (copyrighted content)
 data/the_social_network.txt
 data/*.txt
+*.pdf
 
 # Output files
 output/
